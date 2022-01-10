@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: bornik/gitops:hellov1.1
+        image: bornik/gitops:hellov1.2
